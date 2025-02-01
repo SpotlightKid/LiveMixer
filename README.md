@@ -1,5 +1,7 @@
 # LiveMixer
 
+**NOTE:** This repository is achived and the plugin has been superceded by https://github.com/SpotlightKid/SendMixer !
+
 Stereo mixer strip with two aux sends (post fader)
 
 Useful if you want to use [Carla] / [Patchage] as live mixing software with
